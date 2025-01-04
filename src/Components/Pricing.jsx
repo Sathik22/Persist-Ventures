@@ -20,7 +20,7 @@ const Pricing = () => {
                 )}
               </p>
               <p className="mb-8">
-                <span className="text-3xl mt-5 mr-2">{option.price}</span>
+                <span className="text-3 xl mt-5 mr-2">{option.price}</span>
                 <span className="text-neutral-400 tracking-tight">/Month</span>
               </p>
               <ul>
